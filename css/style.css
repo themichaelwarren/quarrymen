@@ -79,7 +79,7 @@ nav {
 }
 
 .logo img {
-    width: 33%;
+    width: 25%;
 }
 
 footer {
@@ -96,9 +96,8 @@ body {
     grid-template-rows: 70px 50px 1fr 60px;
     grid-template-columns: 1fr;
 }
-.logo {
-    font-family: 'Dawning of a New Day';
-    font-size: 38px;
+.logo img {
+    width: 50%;
 }
 .header {
     padding-top: 0.6em!important;
