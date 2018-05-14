@@ -78,9 +78,8 @@ nav {
     grid-area: ads;
 }
 
-.logo {
-    font-family: 'Dawning of a New Day';
-    font-size: 32px;
+.logo img {
+    width: 33%;
 }
 
 footer {
