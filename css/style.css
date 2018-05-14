@@ -97,7 +97,7 @@ body {
     grid-template-columns: 1fr;
 }
 .logo img {
-    width: 350px;
+    width: 250px;
 }
 .header {
     padding-top: 0.6em!important;
