@@ -46,6 +46,10 @@ article,h2,page,nav,menu {
     line-height: 1.6;
 }
 
+article {
+    margin: 0px 8px;
+}
+
 #pageHeader {
     grid-area: header;
 }
