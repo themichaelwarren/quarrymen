@@ -1,5 +1,8 @@
 @import url(//fonts.googleapis.com/earlyaccess/notosansjapanese.css);
 
+.logo img {
+    width: 200px;
+}
 
 a {color: black;}
 a:link {text-decoration: none;}
@@ -95,6 +98,11 @@ article,h2,page {
 /* Stack the layout on small devices/viewports. */
 
 @media all and (max-width: 575px) {
+
+.logo img {
+    width: 250px;
+}
+
 body {
     grid-template-areas: "menu" "article" "nav" "footer";
     grid-template-rows: auto auto auto auto;
