@@ -10,11 +10,17 @@
 }
 
 
-a {color: tomato;}
+a {color: black;}
 a:link {text-decoration: none;}
 a:visited {text-decoration: none;}
-a:hover {text-decoration: none;border-bottom: 1px dashed;}
+a:hover {text-decoration: none;}
 a:active {text-decoration: none;}
+
+p>a {color: tomato;}
+p>a:link {text-decoration: none;}
+p>a:visited {text-decoration: none;}
+p>a:hover {text-decoration: none;border-bottom: 1px dashed;}
+p>a:active {text-decoration: none;}
 
 
 body {
