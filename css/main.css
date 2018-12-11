@@ -129,7 +129,7 @@ article {
 }
 
 .article p {
-    padding: 0px 8px;
+    margin: 0em 1em!important;
 }
 
 .menu {
