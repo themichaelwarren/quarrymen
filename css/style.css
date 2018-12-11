@@ -111,8 +111,8 @@ body {
     padding-top: 0.6em!important;
 }
 
-.AT {
-    padding: 0px!important;
+article {
+    padding: 1.2em 0em 0em 0em;
 }
 .nav-grid {
     display: grid;
