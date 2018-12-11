@@ -95,9 +95,8 @@ article,h2,page {
 }
 
 
-/* Stack the layout on small devices/viewports. */
 
-@media all and (max-width: 575px) {
+@media all and (max-width: 600px) {
 
 .logo img {
     width: 250px!important;
