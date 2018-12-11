@@ -121,10 +121,10 @@ body {
     }
 
 .article {
-	margin: 1em 0em 2em 0em;
+	margin: 1em 0em 2em 0em!important;
 }
 
-.article p {
+.article>p {
     padding: 0em 1em!important;
 }
 
