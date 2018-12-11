@@ -1,7 +1,7 @@
 @import url(//fonts.googleapis.com/earlyaccess/notosansjapanese.css);
 
 .logo img {
-    width: 200px!important;
+    width: 200px;
     padding-bottom: 3px;
 }
 
@@ -11,9 +11,6 @@ a:visited {text-decoration: none;}
 a:hover {text-decoration: none;color: darkgray;}
 a:active {text-decoration: none;}
 
-img {
-    max-width: 100%;
-}
 
 body {
     box-sizing: border-box;
@@ -100,7 +97,7 @@ article,h2,page {
 @media all and (max-width: 600px) {
 
 .logo img {
-    width: 250px!important;
+    width: 250px;
 }
 
 body {
