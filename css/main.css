@@ -120,12 +120,12 @@ body {
     border-bottom: 1px solid black;
     }
 
-article {
+.article {
 	margin: 1em 0em 2em 0em;
 }
 
-.p {
-    padding: 1em!important;
+.article p {
+    padding: 0em 1em!important;
 }
 
 .menu {
