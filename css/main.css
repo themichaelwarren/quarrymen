@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700,900&subset=japanese');
 
 .logo img {
-    width: 200px;
+    width: 200px!important;
     padding-bottom: 3px;
 }
 
-.article img {
+.img {
     max-width: 100%;
 }
 
@@ -101,7 +101,7 @@ article,h2,page,nav,menu {
 @media all and (max-width: 600px) {
 
 .logo img {
-    width: 250px;
+    width: 250px!important;
     padding-bottom: 0px;
 }
 
