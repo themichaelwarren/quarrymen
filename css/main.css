@@ -113,7 +113,6 @@ article h3 {
 @media all and (max-width: 600px) {
 
 .logo img {
-    width: 150px!important;
     padding-bottom: 0px;
 }
 
