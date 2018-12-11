@@ -5,10 +5,6 @@
     padding-bottom: 3px;
 }
 
-.img {
-    max-width: 100%;
-}
-
 
 a {color: black;}
 a:link {text-decoration: none;}
@@ -128,8 +124,9 @@ article {
 	margin: 1em 0em 2em 0em;
 }
 
-.article p {
-    margin: 0em 1em!important;
+.article p,
+.mainArticle p {
+    padding: 0em 1em;
 }
 
 .menu {
