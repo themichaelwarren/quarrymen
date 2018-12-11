@@ -10,10 +10,10 @@
 }
 
 
-a {color: black;}
+a {color: tomato;}
 a:link {text-decoration: none;}
 a:visited {text-decoration: none;}
-a:hover {text-decoration: none;color: darkgray;}
+a:hover {text-decoration: none;border-bottom: 1px dashed;}
 a:active {text-decoration: none;}
 
 
