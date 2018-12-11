@@ -55,7 +55,7 @@ article,h2,page,nav,menu {
 article p,
 article h3,
 article form {
-    margin: 8px 12px;
+    margin: 1em;
 }
 
 #pageHeader {
