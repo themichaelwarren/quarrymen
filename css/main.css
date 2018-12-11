@@ -137,6 +137,9 @@ body {
 .navbar a.title {
     border-top: 0px!important;
     }
+.index .navbar a.title {
+    display:none!important;
+}
 
 article {
 	margin: 0 0 1em 0;
