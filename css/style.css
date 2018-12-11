@@ -102,12 +102,17 @@ body {
     grid-template-areas: "header" "nav" "article" "footer";
     grid-template-rows: 50px 50px 1fr 60px;
     grid-template-columns: 1fr;
+    grid-gap: 0px;
 }
 .logo img {
     width: 250px;
 }
 .header {
     padding-top: 0.6em!important;
+}
+
+.AT {
+    padding: 0px!important;
 }
 .nav-grid {
     display: grid;
