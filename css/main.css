@@ -20,7 +20,7 @@ body {
     grid-template-columns: 100%;
     height: 100vh;
     margin: 0;
-    font-family: 'Lato', 'Noto Sans Japanese', serif!important;
+    font-family: 'Noto Sans Japanese', sans-serif!important;
 }
 
 menu {
@@ -37,7 +37,7 @@ footer {
 }
 
 article,h2,page {
-    font-family: 'Lato', 'Noto Sans Japanese', serif!important;
+    font-family: 'Noto Sans Japanese', sans-serif!important;
     font-weight: 100;
     line-height: 1.6;
 }
@@ -132,7 +132,7 @@ article {
     display: flex;
 }
     .page {
-        font-family: 'Lato', 'Noto Sans Japanese', serif!important;
+        font-family: 'Noto Sans Japanese', sans-serif!important;
         float:left;
         position:absolute;
         left: 1em;
