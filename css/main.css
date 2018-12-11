@@ -136,7 +136,7 @@ body {
     border-bottom: 1px solid black;
     }
 .navbar a.title {
-    border-top: 0px;
+    border-top: 0px!important;
     }
 
 article {
