@@ -85,6 +85,7 @@ article p {
 
 .navbar a:hover {
   color: tomato;
+  border-bottom: 0px;
 }
 
 .navbar a.active {
