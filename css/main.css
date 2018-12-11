@@ -135,9 +135,12 @@ body {
 .navbar a:last-child {
     border-bottom: 1px solid black;
     }
+.navbar a:first-child {
+    border-top: 0px;
+    }
 
 article {
-	margin: 1em 0 2em 0;
+	margin: 0 0 1em 0;
 }
 
 .menu {
