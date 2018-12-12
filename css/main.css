@@ -9,6 +9,29 @@
     max-width: 100%;
 }
 
+.button {
+        display: inline-block;
+  margin: 0;
+  padding: 8px 20px;
+        border: 0;
+        border-radius: 0.317rem;
+        color: #fff;
+        background-color: #1fa3ec;
+        color: white!important;
+        border-bottom: 0px!important; 
+        text-decoration: none;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 1.6;
+        font-family: 'Noto Sans JP', sans-serif;
+        cursor: pointer;
+        -webkit-appearance: none;
+        -webkit-font-smoothing: antialiased;
+}
+
+.button:hover {
+        opacity: 0.85;
+}
 
 a {color: black;}
 a:link {text-decoration: none;}
