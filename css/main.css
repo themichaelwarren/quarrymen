@@ -9,10 +9,9 @@
     max-width: 100%;
 }
 
-p>a button,
 .a button {
         display: inline-block;
-  	margin: 0;
+  	margin: 0 0 0 1em;
   	padding: 8px 20px;
         border: 0;
         border-radius: 0.317rem;
@@ -30,7 +29,6 @@ p>a button,
         -webkit-font-smoothing: antialiased;
 }
 
-p>a button:hover,
 .a button:hover {
         opacity: 0.85;
 }
