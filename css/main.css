@@ -9,7 +9,7 @@
     max-width: 100%;
 }
 
-.a button {
+a.button {
         display: inline-block;
   	margin: 0 0 0 1em;
   	padding: 8px 20px;
@@ -29,7 +29,7 @@
         -webkit-font-smoothing: antialiased;
 }
 
-.a button:hover {
+a.button:hover {
         opacity: 0.85;
 }
 
