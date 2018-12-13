@@ -35,14 +35,14 @@
     height: 100%;
 }
 
-.grid-container {
+.band-container {
     display: grid;
     grid-template-columns: 33% 33% 33%;
     background-color: #fff;
     margin: 1em;
 }
 
-.grid-container>div {
+.band-container>div {
     background-color: rgba(255, 255, 255, 0.8);
     text-align: left;
     padding: 20px 10px;
@@ -245,7 +245,7 @@ article form {
         padding-top: 5px;
     }
 
-    .grid-container {
+    .band-container {
         display: grid;
         grid-template-columns: 50% 50%;
         background-color: #fff;
